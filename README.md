@@ -122,12 +122,6 @@ The project includes an interactive HTML dashboard (`Dashboard/dashboard.html`) 
 - Revenue trend analysis
 - Order source performance metrics
 
-### Dashboard Features
-- **Responsive Design**: Works on desktop and mobile devices
-- **Interactive Charts**: Hover effects and drill-down capabilities
-- **Real-time Updates**: Dynamic data visualization
-- **Export Options**: Save charts and reports
-
 ## 🛡️ Data Quality & Error Handling
 
 - **Data Validation**: Schema enforcement and type checking
@@ -165,36 +159,10 @@ The project includes an interactive HTML dashboard (`Dashboard/dashboard.html`) 
 - [ ] Integration with additional data sources
 - [ ] Mobile app development for dashboard access
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Sakshi Jain**
-- GitHub: [@SakshiJainOfficial](https://github.com/SakshiJainOfficial)
-- LinkedIn: [Sakshi Jain](https://www.linkedin.com/in/sakshij01/)
-- Email: sakshi.jain@utah.edu
 
 ## 🙏 Acknowledgments
 
 - Databricks community for excellent documentation and support
 - Apache Spark team for the powerful big data processing framework
 - Open source visualization libraries for dashboard development
-
----
-
-⭐ **If you found this project helpful, please give it a star!** ⭐
-
-## 📞 Contact
-
-For questions, suggestions, or collaboration opportunities, feel free to reach out via email or LinkedIn!
-```
-
-This updated README now accurately reflects the actual project structure shown in your GitHub repository, with the Dashboard folder containing dashboard.html, the main Jupyter notebook, and the index.html file.
-```
 
