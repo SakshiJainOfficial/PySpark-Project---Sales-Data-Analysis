@@ -144,12 +144,6 @@ The project includes an interactive HTML dashboard (`Dashboard/dashboard.html`) 
 - Caching strategies for frequently accessed data
 - Memory management best practices
 
-## 🌐 Live Demo
-
-- **Dashboard**: Open `Dashboard/dashboard.html` to view the interactive dashboard
-- **Project Page**: Visit `index.html` for the project overview
-- **Notebook**: Run `PySPARK Project Sales Analysis.ipynb` in Databricks or Jupyter
-
 ## 📋 Future Enhancements
 
 - [ ] Real-time streaming data integration
